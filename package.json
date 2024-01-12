@@ -1,0 +1,15 @@
+{
+	"name": "ts-sorting-algorithms",
+	"version": "1.0.0",
+	"description": "",
+	"main": "selection-sort.js",
+	"scripts": {
+		"selection": "tsc selection-sort.ts && node selection-sort.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^5.3.3"
+	}
+}
