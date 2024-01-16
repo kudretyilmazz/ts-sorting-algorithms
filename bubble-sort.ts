@@ -1,7 +1,7 @@
 const array = [8, 14, 5, 23, 34, 56, 2, 18];
 
 class BubbleSort {
-	swap(arr: number[], i: number, j: number) {
+	private swap(arr: number[], i: number, j: number) {
 		const temp = arr[i];
 		arr[i] = arr[j];
 		arr[j] = temp;
