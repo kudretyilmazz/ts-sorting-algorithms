@@ -7,7 +7,8 @@
 		"selection": "tsc selection-sort.ts && node selection-sort.js && rm -rf selection-sort.js",
 		"bubble": "tsc bubble-sort.ts && node bubble-sort.js && rm -rf bubble-sort.js",
 		"insertion": "tsc insertion-sort.ts && node insertion-sort.js && rm -rf insertion-sort.js",
-		"quick": "tsc quick-sort.ts && node quick-sort.js && rm -rf quick-sort.js"
+		"quick": "tsc quick-sort.ts && node quick-sort.js && rm -rf quick-sort.js",
+		"merge": "tsc merge-sort.ts && node merge-sort.js && rm -rf merge-sort.js"
 	},
 	"keywords": [],
 	"author": "",
